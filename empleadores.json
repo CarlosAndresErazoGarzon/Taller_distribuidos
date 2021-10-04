@@ -1,0 +1,26 @@
+[
+  {
+    "codigoE": "EM1",
+    "nombre": "prueba3",
+    "pass": "3",
+    "conectado": false
+  },
+  {
+    "codigoE": "EM2",
+    "nombre": "prueba4",
+    "pass": "4",
+    "conectado": false
+  },
+  {
+    "codigoE": "EM3",
+    "nombre": "oferta1",
+    "pass": "1",
+    "conectado": false
+  },
+  {
+    "codigoE": "EM4",
+    "nombre": "prueba6",
+    "pass": "3",
+    "conectado": false
+  }
+]

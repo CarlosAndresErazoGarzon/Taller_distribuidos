@@ -1,0 +1,20 @@
+[
+  {
+    "codigoOT": "OT0",
+    "vacante": 5,
+    "nombre": "oferta1",
+    "sueldo": 500006,
+    "clase": "TECNICOS_PROFESIONALES",
+    "capacidades": "",
+    "codigoE": "EM3"
+  },
+  {
+    "codigoOT": "OT2",
+    "vacante": 8,
+    "nombre": "oferta3",
+    "sueldo": 900000,
+    "clase": "PERSONAL_APOYO_ADM",
+    "capacidades": "a",
+    "codigoE": "EM0"
+  }
+]
